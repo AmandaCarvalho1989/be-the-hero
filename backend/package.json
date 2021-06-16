@@ -15,7 +15,7 @@
     "install": "^0.13.0",
     "knex": "^0.21.1",
     "node-pre-gyp": "^0.14.0",
-    "sqlite3": "^4.2.0"
+    "sqlite3": "^5.0.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
